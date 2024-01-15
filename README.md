@@ -22,7 +22,7 @@ This Python script utilizes computer vision to create an eye-tracking mouse cont
 2. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/eye-control-mouse.git
+    git clone https://github.com/rajiv2004-cloud/Eye-Control-Mouse.git
     cd eye-control-mouse
     ```
 
